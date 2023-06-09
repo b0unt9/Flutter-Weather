@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_weather/data/my_location.dart';
-import 'package:flutter_weather/data/network.dart';
-import 'package:flutter_weather/screens/weather_screen.dart';
+import 'package:flutter_weather/my_location.dart';
+import 'package:flutter_weather/network.dart';
+import 'package:flutter_weather/weather_screen.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 
 class Loading extends StatefulWidget {
